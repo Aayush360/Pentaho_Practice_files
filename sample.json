@@ -1,0 +1,16 @@
+{
+  "markers":[
+{
+"name": "usa",
+"location": [1.2,2.3]
+},
+{
+"name": "japan",
+"location": [2.3,4.5]
+},
+{
+"name": "australia",
+"location": [1.5,7.6]
+}
+]
+}

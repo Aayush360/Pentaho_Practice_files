@@ -1,0 +1,647 @@
+Period;Birth_Death;Region;Count
+2003;B;Northland region                       ;2022
+2003;B;Auckland region                        ;20112
+2003;B;Waikato region                         ;5442
+2003;B;Bay of Plenty region                   ;3618
+2003;B;Gisborne region                        ;702
+2003;B;Hawke's Bay region                     ;2079
+2003;B;Taranaki region                        ;1374
+2003;B;Manawatu-Wanganui region               ;2913
+2003;B;Wellington region                      ;6384
+2003;B;Tasman region                          ;537
+2003;B;Nelson region                          ;528
+2003;B;Marlborough region                     ;459
+2003;B;West Coast region                      ;333
+2003;B;Canterbury region                      ;6258
+2003;B;Otago region                           ;2046
+2003;B;Southland region                       ;1230
+2003;B;Region not stated or
+area outside regio;99
+2003;B;New Zealand                            ;56133
+2003;D;Northland region                       ;1254
+2003;D;Auckland region                        ;7164
+2003;D;Waikato region                         ;2541
+2003;D;Bay of Plenty region                   ;1971
+2003;D;Gisborne region                        ;411
+2003;D;Hawke's Bay region                     ;1326
+2003;D;Taranaki region                        ;921
+2003;D;Manawatu-Wanganui region               ;1908
+2003;D;Wellington region                      ;2931
+2003;D;Tasman region                          ;291
+2003;D;Nelson region                          ;369
+2003;D;Marlborough region                     ;327
+2003;D;West Coast region                      ;267
+2003;D;Canterbury region                      ;3867
+2003;D;Otago region                           ;1596
+2003;D;Southland region                       ;786
+2003;D;Region not stated or
+area outside regio;75
+2003;D;New Zealand                            ;28011
+2004;B;Northland region                       ;2070
+2004;B;Auckland region                        ;20955
+2004;B;Waikato region                         ;5583
+2004;B;Bay of Plenty region                   ;3831
+2004;B;Gisborne region                        ;750
+2004;B;Hawke's Bay region                     ;2163
+2004;B;Taranaki region                        ;1317
+2004;B;Manawatu-Wanganui region               ;2916
+2004;B;Wellington region                      ;6327
+2004;B;Tasman region                          ;555
+2004;B;Nelson region                          ;579
+2004;B;Marlborough region                     ;480
+2004;B;West Coast region                      ;399
+2004;B;Canterbury region                      ;6630
+2004;B;Otago region                           ;2172
+2004;B;Southland region                       ;1260
+2004;B;Region not stated or
+area outside regio;78
+2004;B;New Zealand                            ;58071
+2004;D;Northland region                       ;1191
+2004;D;Auckland region                        ;7242
+2004;D;Waikato region                         ;2646
+2004;D;Bay of Plenty region                   ;2073
+2004;D;Gisborne region                        ;363
+2004;D;Hawke's Bay region                     ;1218
+2004;D;Taranaki region                        ;918
+2004;D;Manawatu-Wanganui region               ;1968
+2004;D;Wellington region                      ;2922
+2004;D;Tasman region                          ;309
+2004;D;Nelson region                          ;381
+2004;D;Marlborough region                     ;387
+2004;D;West Coast region                      ;255
+2004;D;Canterbury region                      ;4179
+2004;D;Otago region                           ;1494
+2004;D;Southland region                       ;792
+2004;D;Region not stated or
+area outside regio;84
+2004;D;New Zealand                            ;28419
+2005;B;Northland region                       ;2067
+2005;B;Auckland region                        ;20745
+2005;B;Waikato region                         ;5667
+2005;B;Bay of Plenty region                   ;3771
+2005;B;Gisborne region                        ;777
+2005;B;Hawke's Bay region                     ;2115
+2005;B;Taranaki region                        ;1410
+2005;B;Manawatu-Wanganui region               ;3093
+2005;B;Wellington region                      ;6225
+2005;B;Tasman region                          ;513
+2005;B;Nelson region                          ;519
+2005;B;Marlborough region                     ;471
+2005;B;West Coast region                      ;336
+2005;B;Canterbury region                      ;6603
+2005;B;Otago region                           ;2151
+2005;B;Southland region                       ;1212
+2005;B;Region not stated or
+area outside regio;57
+2005;B;New Zealand                            ;57747
+2005;D;Northland region                       ;1167
+2005;D;Auckland region                        ;6873
+2005;D;Waikato region                         ;2520
+2005;D;Bay of Plenty region                   ;1956
+2005;D;Gisborne region                        ;375
+2005;D;Hawke's Bay region                     ;1278
+2005;D;Taranaki region                        ;909
+2005;D;Manawatu-Wanganui region               ;1836
+2005;D;Wellington region                      ;2745
+2005;D;Tasman region                          ;315
+2005;D;Nelson region                          ;345
+2005;D;Marlborough region                     ;372
+2005;D;West Coast region                      ;243
+2005;D;Canterbury region                      ;3816
+2005;D;Otago region                           ;1428
+2005;D;Southland region                       ;723
+2005;D;Region not stated or
+area outside regio;129
+2005;D;New Zealand                            ;27033
+2006;B;Northland region                       ;2244
+2006;B;Auckland region                        ;21333
+2006;B;Waikato region                         ;5592
+2006;B;Bay of Plenty region                   ;3840
+2006;B;Gisborne region                        ;720
+2006;B;Hawke's Bay region                     ;2163
+2006;B;Taranaki region                        ;1455
+2006;B;Manawatu-Wanganui region               ;3165
+2006;B;Wellington region                      ;6441
+2006;B;Tasman region                          ;549
+2006;B;Nelson region                          ;522
+2006;B;Marlborough region                     ;486
+2006;B;West Coast region                      ;390
+2006;B;Canterbury region                      ;6777
+2006;B;Otago region                           ;2148
+2006;B;Southland region                       ;1233
+2006;B;Region not stated or
+area outside regio;135
+2006;B;New Zealand                            ;59193
+2006;D;Northland region                       ;1164
+2006;D;Auckland region                        ;7152
+2006;D;Waikato region                         ;2754
+2006;D;Bay of Plenty region                   ;2151
+2006;D;Gisborne region                        ;438
+2006;D;Hawke's Bay region                     ;1251
+2006;D;Taranaki region                        ;858
+2006;D;Manawatu-Wanganui region               ;1965
+2006;D;Wellington region                      ;2826
+2006;D;Tasman region                          ;342
+2006;D;Nelson region                          ;366
+2006;D;Marlborough region                     ;360
+2006;D;West Coast region                      ;240
+2006;D;Canterbury region                      ;4014
+2006;D;Otago region                           ;1458
+2006;D;Southland region                       ;765
+2006;D;Region not stated or
+area outside regio;135
+2006;D;New Zealand                            ;28245
+2007;B;Northland region                       ;2322
+2007;B;Auckland region                        ;23007
+2007;B;Waikato region                         ;6231
+2007;B;Bay of Plenty region                   ;4053
+2007;B;Gisborne region                        ;801
+2007;B;Hawke's Bay region                     ;2319
+2007;B;Taranaki region                        ;1611
+2007;B;Manawatu-Wanganui region               ;3297
+2007;B;Wellington region                      ;6876
+2007;B;Tasman region                          ;552
+2007;B;Nelson region                          ;639
+2007;B;Marlborough region                     ;513
+2007;B;West Coast region                      ;405
+2007;B;Canterbury region                      ;7548
+2007;B;Otago region                           ;2349
+2007;B;Southland region                       ;1350
+2007;B;Region not stated or
+area outside regio;174
+2007;B;New Zealand                            ;64044
+2007;D;Northland region                       ;1224
+2007;D;Auckland region                        ;7218
+2007;D;Waikato region                         ;2787
+2007;D;Bay of Plenty region                   ;2139
+2007;D;Gisborne region                        ;378
+2007;D;Hawke's Bay region                     ;1281
+2007;D;Taranaki region                        ;939
+2007;D;Manawatu-Wanganui region               ;1812
+2007;D;Wellington region                      ;2865
+2007;D;Tasman region                          ;324
+2007;D;Nelson region                          ;381
+2007;D;Marlborough region                     ;366
+2007;D;West Coast region                      ;255
+2007;D;Canterbury region                      ;4107
+2007;D;Otago region                           ;1530
+2007;D;Southland region                       ;783
+2007;D;Region not stated or
+area outside regio;132
+2007;D;New Zealand                            ;28521
+2008;B;Northland region                       ;2304
+2008;B;Auckland region                        ;23112
+2008;B;Waikato region                         ;6423
+2008;B;Bay of Plenty region                   ;4116
+2008;B;Gisborne region                        ;828
+2008;B;Hawke's Bay region                     ;2358
+2008;B;Taranaki region                        ;1596
+2008;B;Manawatu-Wanganui region               ;3372
+2008;B;Wellington region                      ;6972
+2008;B;Tasman region                          ;558
+2008;B;Nelson region                          ;627
+2008;B;Marlborough region                     ;570
+2008;B;West Coast region                      ;453
+2008;B;Canterbury region                      ;7284
+2008;B;Otago region                           ;2367
+2008;B;Southland region                       ;1338
+2008;B;Region not stated or
+area outside regio;63
+2008;B;New Zealand                            ;64344
+2008;D;Northland region                       ;1344
+2008;D;Auckland region                        ;7404
+2008;D;Waikato region                         ;2871
+2008;D;Bay of Plenty region                   ;2241
+2008;D;Gisborne region                        ;387
+2008;D;Hawke's Bay region                     ;1200
+2008;D;Taranaki region                        ;912
+2008;D;Manawatu-Wanganui region               ;1920
+2008;D;Wellington region                      ;3015
+2008;D;Tasman region                          ;297
+2008;D;Nelson region                          ;411
+2008;D;Marlborough region                     ;381
+2008;D;West Coast region                      ;273
+2008;D;Canterbury region                      ;4017
+2008;D;Otago region                           ;1617
+2008;D;Southland region                       ;786
+2008;D;Region not stated or
+area outside regio;108
+2008;D;New Zealand                            ;29190
+2009;B;Northland region                       ;2199
+2009;B;Auckland region                        ;22605
+2009;B;Waikato region                         ;6147
+2009;B;Bay of Plenty region                   ;3939
+2009;B;Gisborne region                        ;729
+2009;B;Hawke's Bay region                     ;2352
+2009;B;Taranaki region                        ;1587
+2009;B;Manawatu-Wanganui region               ;3153
+2009;B;Wellington region                      ;6792
+2009;B;Tasman region                          ;498
+2009;B;Nelson region                          ;603
+2009;B;Marlborough region                     ;552
+2009;B;West Coast region                      ;432
+2009;B;Canterbury region                      ;7161
+2009;B;Otago region                           ;2352
+2009;B;Southland region                       ;1356
+2009;B;Region not stated or
+area outside regio;90
+2009;B;New Zealand                            ;62544
+2009;D;Northland region                       ;1287
+2009;D;Auckland region                        ;7386
+2009;D;Waikato region                         ;2760
+2009;D;Bay of Plenty region                   ;2226
+2009;D;Gisborne region                        ;360
+2009;D;Hawke's Bay region                     ;1251
+2009;D;Taranaki region                        ;897
+2009;D;Manawatu-Wanganui region               ;1941
+2009;D;Wellington region                      ;2955
+2009;D;Tasman region                          ;300
+2009;D;Nelson region                          ;360
+2009;D;Marlborough region                     ;378
+2009;D;West Coast region                      ;264
+2009;D;Canterbury region                      ;4206
+2009;D;Otago region                           ;1560
+2009;D;Southland region                       ;765
+2009;D;Region not stated or
+area outside regio;66
+2009;D;New Zealand                            ;28962
+2010;B;Northland region                       ;2397
+2010;B;Auckland region                        ;23214
+2010;B;Waikato region                         ;6324
+2010;B;Bay of Plenty region                   ;3957
+2010;B;Gisborne region                        ;783
+2010;B;Hawke's Bay region                     ;2286
+2010;B;Taranaki region                        ;1596
+2010;B;Manawatu-Wanganui region               ;3297
+2010;B;Wellington region                      ;6771
+2010;B;Tasman region                          ;543
+2010;B;Nelson region                          ;603
+2010;B;Marlborough region                     ;573
+2010;B;West Coast region                      ;429
+2010;B;Canterbury region                      ;7305
+2010;B;Otago region                           ;2331
+2010;B;Southland region                       ;1404
+2010;B;Region not stated or
+area outside regio;81
+2010;B;New Zealand                            ;63897
+2010;D;Northland region                       ;1233
+2010;D;Auckland region                        ;7227
+2010;D;Waikato region                         ;2772
+2010;D;Bay of Plenty region                   ;2139
+2010;D;Gisborne region                        ;381
+2010;D;Hawke's Bay region                     ;1206
+2010;D;Taranaki region                        ;909
+2010;D;Manawatu-Wanganui region               ;1905
+2010;D;Wellington region                      ;2916
+2010;D;Tasman region                          ;309
+2010;D;Nelson region                          ;372
+2010;D;Marlborough region                     ;360
+2010;D;West Coast region                      ;249
+2010;D;Canterbury region                      ;4272
+2010;D;Otago region                           ;1392
+2010;D;Southland region                       ;744
+2010;D;Region not stated or
+area outside regio;48
+2010;D;New Zealand                            ;28437
+2011;B;Northland region                       ;2199
+2011;B;Auckland region                        ;22659
+2011;B;Waikato region                         ;5916
+2011;B;Bay of Plenty region                   ;3951
+2011;B;Gisborne region                        ;738
+2011;B;Hawke's Bay region                     ;2226
+2011;B;Taranaki region                        ;1554
+2011;B;Manawatu-Wanganui region               ;3171
+2011;B;Wellington region                      ;6528
+2011;B;Tasman region                          ;501
+2011;B;Nelson region                          ;600
+2011;B;Marlborough region                     ;540
+2011;B;West Coast region                      ;432
+2011;B;Canterbury region                      ;6693
+2011;B;Otago region                           ;2340
+2011;B;Southland region                       ;1332
+2011;B;Region not stated or
+area outside regio;24
+2011;B;New Zealand                            ;61401
+2011;D;Northland region                       ;1365
+2011;D;Auckland region                        ;7692
+2011;D;Waikato region                         ;2937
+2011;D;Bay of Plenty region                   ;2202
+2011;D;Gisborne region                        ;366
+2011;D;Hawke's Bay region                     ;1269
+2011;D;Taranaki region                        ;978
+2011;D;Manawatu-Wanganui region               ;1911
+2011;D;Wellington region                      ;3123
+2011;D;Tasman region                          ;348
+2011;D;Nelson region                          ;375
+2011;D;Marlborough region                     ;378
+2011;D;West Coast region                      ;291
+2011;D;Canterbury region                      ;4473
+2011;D;Otago region                           ;1542
+2011;D;Southland region                       ;807
+2011;D;Region not stated or
+area outside regio;27
+2011;D;New Zealand                            ;30081
+2012;B;Northland region                       ;2310
+2012;B;Auckland region                        ;22836
+2012;B;Waikato region                         ;6051
+2012;B;Bay of Plenty region                   ;3876
+2012;B;Gisborne region                        ;708
+2012;B;Hawke's Bay region                     ;2238
+2012;B;Taranaki region                        ;1533
+2012;B;Manawatu-Wanganui region               ;3015
+2012;B;Wellington region                      ;6435
+2012;B;Tasman region                          ;477
+2012;B;Nelson region                          ;546
+2012;B;Marlborough region                     ;507
+2012;B;West Coast region                      ;417
+2012;B;Canterbury region                      ;6633
+2012;B;Otago region                           ;2337
+2012;B;Southland region                       ;1245
+2012;B;Region not stated or
+area outside regio;18
+2012;B;New Zealand                            ;61179
+2012;D;Northland region                       ;1374
+2012;D;Auckland region                        ;7665
+2012;D;Waikato region                         ;2931
+2012;D;Bay of Plenty region                   ;2211
+2012;D;Gisborne region                        ;396
+2012;D;Hawke's Bay region                     ;1326
+2012;D;Taranaki region                        ;948
+2012;D;Manawatu-Wanganui region               ;1920
+2012;D;Wellington region                      ;3123
+2012;D;Tasman region                          ;342
+2012;D;Nelson region                          ;417
+2012;D;Marlborough region                     ;393
+2012;D;West Coast region                      ;252
+2012;D;Canterbury region                      ;4359
+2012;D;Otago region                           ;1635
+2012;D;Southland region                       ;783
+2012;D;Region not stated or
+area outside regio;21
+2012;D;New Zealand                            ;30099
+2013;B;Northland region                       ;2124
+2013;B;Auckland region                        ;21825
+2013;B;Waikato region                         ;5745
+2013;B;Bay of Plenty region                   ;3696
+2013;B;Gisborne region                        ;699
+2013;B;Hawke's Bay region                     ;2160
+2013;B;Taranaki region                        ;1503
+2013;B;Manawatu-Wanganui region               ;2985
+2013;B;Wellington region                      ;6057
+2013;B;Tasman region                          ;486
+2013;B;Nelson region                          ;555
+2013;B;Marlborough region                     ;504
+2013;B;West Coast region                      ;384
+2013;B;Canterbury region                      ;6543
+2013;B;Otago region                           ;2235
+2013;B;Southland region                       ;1200
+2013;B;Region not stated or
+area outside regio;12
+2013;B;New Zealand                            ;58716
+2013;D;Northland region                       ;1365
+2013;D;Auckland region                        ;7566
+2013;D;Waikato region                         ;2919
+2013;D;Bay of Plenty region                   ;2238
+2013;D;Gisborne region                        ;399
+2013;D;Hawke's Bay region                     ;1269
+2013;D;Taranaki region                        ;888
+2013;D;Manawatu-Wanganui region               ;1947
+2013;D;Wellington region                      ;3024
+2013;D;Tasman region                          ;372
+2013;D;Nelson region                          ;411
+2013;D;Marlborough region                     ;396
+2013;D;West Coast region                      ;291
+2013;D;Canterbury region                      ;4098
+2013;D;Otago region                           ;1581
+2013;D;Southland region                       ;780
+2013;D;Region not stated or
+area outside regio;24
+2013;D;New Zealand                            ;29568
+2014;B;Northland region                       ;2049
+2014;B;Auckland region                        ;21429
+2014;B;Waikato region                         ;5688
+2014;B;Bay of Plenty region                   ;3504
+2014;B;Gisborne region                        ;651
+2014;B;Hawke's Bay region                     ;2037
+2014;B;Taranaki region                        ;1506
+2014;B;Manawatu-Wanganui region               ;2865
+2014;B;Wellington region                      ;5889
+2014;B;Tasman region                          ;411
+2014;B;Nelson region                          ;534
+2014;B;Marlborough region                     ;486
+2014;B;West Coast region                      ;375
+2014;B;Canterbury region                      ;6573
+2014;B;Otago region                           ;2088
+2014;B;Southland region                       ;1134
+2014;B;Region not stated or
+area outside regio;21
+2014;B;New Zealand                            ;57243
+2014;D;Northland region                       ;1377
+2014;D;Auckland region                        ;8034
+2014;D;Waikato region                         ;2955
+2014;D;Bay of Plenty region                   ;2352
+2014;D;Gisborne region                        ;387
+2014;D;Hawke's Bay region                     ;1377
+2014;D;Taranaki region                        ;963
+2014;D;Manawatu-Wanganui region               ;2064
+2014;D;Wellington region                      ;3186
+2014;D;Tasman region                          ;339
+2014;D;Nelson region                          ;402
+2014;D;Marlborough region                     ;381
+2014;D;West Coast region                      ;279
+2014;D;Canterbury region                      ;4422
+2014;D;Otago region                           ;1689
+2014;D;Southland region                       ;816
+2014;D;Region not stated or
+area outside regio;42
+2014;D;New Zealand                            ;31062
+2015;B;Northland region                       ;2196
+2015;B;Auckland region                        ;22434
+2015;B;Waikato region                         ;6234
+2015;B;Bay of Plenty region                   ;3879
+2015;B;Gisborne region                        ;717
+2015;B;Hawke's Bay region                     ;2145
+2015;B;Taranaki region                        ;1611
+2015;B;Manawatu-Wanganui region               ;3072
+2015;B;Wellington region                      ;6231
+2015;B;Tasman region                          ;447
+2015;B;Nelson region                          ;534
+2015;B;Marlborough region                     ;489
+2015;B;West Coast region                      ;381
+2015;B;Canterbury region                      ;7077
+2015;B;Otago region                           ;2358
+2015;B;Southland region                       ;1224
+2015;B;Region not stated or
+area outside regio;12
+2015;B;New Zealand                            ;61038
+2015;D;Northland region                       ;1443
+2015;D;Auckland region                        ;8175
+2015;D;Waikato region                         ;3105
+2015;D;Bay of Plenty region                   ;2517
+2015;D;Gisborne region                        ;351
+2015;D;Hawke's Bay region                     ;1467
+2015;D;Taranaki region                        ;1008
+2015;D;Manawatu-Wanganui region               ;2016
+2015;D;Wellington region                      ;3150
+2015;D;Tasman region                          ;375
+2015;D;Nelson region                          ;447
+2015;D;Marlborough region                     ;411
+2015;D;West Coast region                      ;294
+2015;D;Canterbury region                      ;4305
+2015;D;Otago region                           ;1641
+2015;D;Southland region                       ;879
+2015;D;Region not stated or
+area outside regio;24
+2015;D;New Zealand                            ;31608
+2016;B;Northland region                       ;2229
+2016;B;Auckland region                        ;21810
+2016;B;Waikato region                         ;6066
+2016;B;Bay of Plenty region                   ;3864
+2016;B;Gisborne region                        ;738
+2016;B;Hawke's Bay region                     ;2058
+2016;B;Taranaki region                        ;1473
+2016;B;Manawatu-Wanganui region               ;2928
+2016;B;Wellington region                      ;6015
+2016;B;Tasman region                          ;453
+2016;B;Nelson region                          ;540
+2016;B;Marlborough region                     ;534
+2016;B;West Coast region                      ;324
+2016;B;Canterbury region                      ;7014
+2016;B;Otago region                           ;2199
+2016;B;Southland region                       ;1161
+2016;B;Region not stated or
+area outside regio;15
+2016;B;New Zealand                            ;59427
+2016;D;Northland region                       ;1563
+2016;D;Auckland region                        ;8007
+2016;D;Waikato region                         ;3066
+2016;D;Bay of Plenty region                   ;2403
+2016;D;Gisborne region                        ;378
+2016;D;Hawke's Bay region                     ;1368
+2016;D;Taranaki region                        ;981
+2016;D;Manawatu-Wanganui region               ;2082
+2016;D;Wellington region                      ;3237
+2016;D;Tasman region                          ;384
+2016;D;Nelson region                          ;447
+2016;D;Marlborough region                     ;426
+2016;D;West Coast region                      ;267
+2016;D;Canterbury region                      ;4158
+2016;D;Otago region                           ;1536
+2016;D;Southland region                       ;855
+2016;D;Region not stated or
+area outside regio;24
+2016;D;New Zealand                            ;31179
+2017;B;Northland region                       ;2247
+2017;B;Auckland region                        ;21393
+2017;B;Waikato region                         ;6204
+2017;B;Bay of Plenty region                   ;4086
+2017;B;Gisborne region                        ;705
+2017;B;Hawke's Bay region                     ;2127
+2017;B;Taranaki region                        ;1389
+2017;B;Manawatu-Wanganui region               ;3045
+2017;B;Wellington region                      ;6057
+2017;B;Tasman region                          ;459
+2017;B;Nelson region                          ;504
+2017;B;Marlborough region                     ;495
+2017;B;West Coast region                      ;363
+2017;B;Canterbury region                      ;7065
+2017;B;Otago region                           ;2241
+2017;B;Southland region                       ;1215
+2017;B;Region not stated or
+area outside regio;15
+2017;B;New Zealand                            ;59610
+2017;D;Northland region                       ;1611
+2017;D;Auckland region                        ;8577
+2017;D;Waikato region                         ;3378
+2017;D;Bay of Plenty region                   ;2676
+2017;D;Gisborne region                        ;432
+2017;D;Hawke's Bay region                     ;1527
+2017;D;Taranaki region                        ;1017
+2017;D;Manawatu-Wanganui region               ;2262
+2017;D;Wellington region                      ;3300
+2017;D;Tasman region                          ;372
+2017;D;Nelson region                          ;468
+2017;D;Marlborough region                     ;405
+2017;D;West Coast region                      ;309
+2017;D;Canterbury region                      ;4494
+2017;D;Otago region                           ;1647
+2017;D;Southland region                       ;849
+2017;D;Region not stated or
+area outside regio;21
+2017;D;New Zealand                            ;33342
+2018;B;Northland region                       ;2181
+2018;B;Auckland region                        ;20712
+2018;B;Waikato region                         ;6054
+2018;B;Bay of Plenty region                   ;3969
+2018;B;Gisborne region                        ;711
+2018;B;Hawke's Bay region                     ;2070
+2018;B;Taranaki region                        ;1548
+2018;B;Manawatu-Wanganui region               ;3024
+2018;B;Wellington region                      ;5706
+2018;B;Tasman region                          ;447
+2018;B;Nelson region                          ;540
+2018;B;Marlborough region                     ;504
+2018;B;West Coast region                      ;324
+2018;B;Canterbury region                      ;6939
+2018;B;Otago region                           ;2148
+2018;B;Southland region                       ;1119
+2018;B;Region not stated or
+area outside regio;18
+2018;B;New Zealand                            ;58020
+2018;D;Northland region                       ;1692
+2018;D;Auckland region                        ;8586
+2018;D;Waikato region                         ;3420
+2018;D;Bay of Plenty region                   ;2583
+2018;D;Gisborne region                        ;429
+2018;D;Hawke's Bay region                     ;1515
+2018;D;Taranaki region                        ;1026
+2018;D;Manawatu-Wanganui region               ;2190
+2018;D;Wellington region                      ;3330
+2018;D;Tasman region                          ;402
+2018;D;Nelson region                          ;441
+2018;D;Marlborough region                     ;450
+2018;D;West Coast region                      ;291
+2018;D;Canterbury region                      ;4431
+2018;D;Otago region                           ;1626
+2018;D;Southland region                       ;804
+2018;D;Region not stated or
+area outside regio;15
+2018;D;New Zealand                            ;33225
+2019;B;Northland region                       ;2250
+2019;B;Auckland region                        ;21405
+2019;B;Waikato region                         ;6237
+2019;B;Bay of Plenty region                   ;4047
+2019;B;Gisborne region                        ;675
+2019;B;Hawke's Bay region                     ;2037
+2019;B;Taranaki region                        ;1542
+2019;B;Manawatu-Wanganui region               ;3057
+2019;B;Wellington region                      ;5904
+2019;B;Tasman region                          ;462
+2019;B;Nelson region                          ;537
+2019;B;Marlborough region                     ;480
+2019;B;West Coast region                      ;354
+2019;B;Canterbury region                      ;7164
+2019;B;Otago region                           ;2310
+2019;B;Southland region                       ;1152
+2019;B;Region not stated or
+area outside regio;21
+2019;B;New Zealand                            ;59637
+2019;D;Northland region                       ;1662
+2019;D;Auckland region                        ;8619
+2019;D;Waikato region                         ;3393
+2019;D;Bay of Plenty region                   ;2787
+2019;D;Gisborne region                        ;456
+2019;D;Hawke's Bay region                     ;1584
+2019;D;Taranaki region                        ;1041
+2019;D;Manawatu-Wanganui region               ;2178
+2019;D;Wellington region                      ;3693
+2019;D;Tasman region                          ;450
+2019;D;Nelson region                          ;474
+2019;D;Marlborough region                     ;414
+2019;D;West Coast region                      ;300
+2019;D;Canterbury region                      ;4608
+2019;D;Otago region                           ;1695
+2019;D;Southland region                       ;888
+2019;D;Region not stated or
+area outside regio;21
+2019;D;New Zealand                            ;34260
